@@ -4,6 +4,8 @@ Built a web-scraping algorithm that scrapes from a dynamic website involving a l
 - **The algorithm needs to take care of `infinite scrolling on the website.`**
 - **Captured approx 500 listings**
 
+<img src='p_list.png' />
+
 ### To scrape
 - Headline
 - Price
