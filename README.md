@@ -30,3 +30,4 @@ Built a web-scraping algorithm that scrapes from a dynamic website involving a l
 - Expected rent
 - Monthly EMI
 - Owner/Builder
+<img src='Untitled.png' />
